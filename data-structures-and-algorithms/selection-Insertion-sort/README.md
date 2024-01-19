@@ -5,10 +5,8 @@
 #### Örnek
 
 ```` 
-    [22,27,16,2,18,6] 
+    [22,27,16,2,18,6] dizinin Insertion Sort algoritmasına göre aşamalarını yazınız.
 ````
-
-##### Yukarıde verilen dizinin Insertion Sort algoritmasına göre aşamalarını yazınız.
 
 #### Cevap
 ````
@@ -42,9 +40,10 @@
 #### Örnek
 
 ````
-[7,3,5,8,2,9,4,15,6]
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort algoritmasına göre ilk 4 adımını yazınız.
 ````
-dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+
+#### Cevap
 ````
     Step 1: [2,3,5,8,7,9,4,15,6] //İlk adımda en küçük eleman 2'dir. Bu eleman, dizinin ilk elemanıyla yer değiştirecek.
     Step 2: [2,3,5,8,7,9,4,15,6] //İkinci adımda en küçük eleman 3'tür. Bu eleman, dizinin ikinci elemanıyla yer değiştirecek.
